@@ -1,0 +1,4 @@
+Todo:
+1. Convert SNN and ANN into pickle files (or load_model from TF)
+2. In app.py, the SNN method gets called correctly and model training works. But, error in callback while creating the graph
+3. app.py seems to work for the 5 ML models, using pickle correctly
